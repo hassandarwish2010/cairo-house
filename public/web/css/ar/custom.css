@@ -1,0 +1,21 @@
+.arabic_dir{
+    direction: initial;
+}
+.sty_news_details{
+    min-height: 168px;
+    direction: rtl;
+}
+.sty-text-right{
+    text-align: right;
+}
+.head-ar2{
+    float: none;
+}
+
+@media all and(min-width:0px) and(max-width:640px) {
+    .head-ar{
+        float: none !important;
+    }
+
+}
+
